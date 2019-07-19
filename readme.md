@@ -19,3 +19,7 @@
 | `NEXT`  | 播放下一首歌 |
 | `PREV`  | 播放上一首歌 |
 | `PAUSE` | 暂停/播放    |
+
+# 参考
+
+https://stackoverflow.com/questions/2969115/
